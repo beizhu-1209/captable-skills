@@ -302,3 +302,11 @@ python3 -m pytest tests/test_scenarios.py::TestScenario7 -v
 - 自动尾差调整确保持股比例总和 = 100%
 - 场景7中每个股东固定转让 20%（如需调整修改 `scripts/scenario7.py` 中的 `transfer_ratio`）
 - 本工具仅供模拟计算参考，实际交易以法律文件为准
+
+## 许可证
+
+本项目采用 [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议开源。
+
+- 可自由分享和改编，但需注明出处
+- 禁止商业用途
+- 衍生作品需使用相同协议
