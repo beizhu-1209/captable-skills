@@ -305,8 +305,8 @@ python3 -m pytest tests/test_scenarios.py::TestScenario7 -v
 
 ## 许可证
 
-本项目采用 [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议开源。
+本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源。
 
-- 可自由分享和改编，但需注明出处
+- 可自由分享，但需注明出处
 - 禁止商业用途
-- 衍生作品需使用相同协议
+- 禁止修改后再分发
