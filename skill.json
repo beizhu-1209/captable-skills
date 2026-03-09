@@ -1,0 +1,14 @@
+{
+  "name": "captable-calculator",
+  "version": "1.0.0",
+  "description": "Cap Table 股权计算器 - 支持8种融资场景的股权稀释计算，专为中国律师设计",
+  "author": "CSlawyer",
+  "license": "MIT",
+  "skills": ["captable"],
+  "tags": ["finance", "equity", "captable", "lawyer", "中国法律"],
+  "entry": "main.py",
+  "language": "python",
+  "requirements": {
+    "python": ">=3.9"
+  }
+}

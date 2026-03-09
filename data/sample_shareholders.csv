@@ -1,0 +1,4 @@
+id,name,type,round,capital,shares,percentage
+sh-1,创始人张三,创始人,初始,600,600,0.6
+sh-2,投资人A,财务投资人,A轮,250,250,0.25
+sh-3,ESOP,员工激励,初始,150,150,0.15
